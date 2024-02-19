@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇧🇷 Hi, i'm from Ceará, Brazil !!<br>🏫 Computer technician at IFCE Fortaleza<br>💡 Skills in python, swift, html, css and javascript<br>🔨 Learning and practicing CBL, SCRUM and figma design<br>🌱 Studying node, kotlin and deeping in the above technologies<br>🔤 Trying improving english<br>🤘 Fun fact: Nothing
+🇧🇷 Hi, i'm from Ceará, Brazil !!<br>🏫 Computer technician at IFCE Fortaleza<br>💡 Skills in python, swift and android studio, web<br>🔨 Learning and practicing CBL, SCRUM and figma design<br>🌱 Studying node, kotlin and deeping in the above technologies<br>🔤 Trying improving english<br>🤘 Fun fact: Nothing
 
 
 # 💻 Tech Stack:
